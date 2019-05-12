@@ -23,6 +23,7 @@ I am the only programmer maintaining/contributing to this project.
 
 ### Step 1: Using your bash/terminal find the liri-node-app directory
 https://jp172010.github.io/liri-node-app/images/Change Directory.png
+
 https://jp172010.github.io/liri-node-app/images/Inside the liri-node-app depository.png
 
 ### Step 2: Type in "node liri.js"
@@ -30,17 +31,25 @@ https://jp172010.github.io/liri-node-app/images/"node liri.js".png
 
 ### Step 3: Pick a command (concert-this, spotify-this-song, movie-this, do-what-it-says)
 https://jp172010.github.io/liri-node-app/images/movie-this command.png
+
 https://jp172010.github.io/liri-node-app/images/concert-this command.png
+
 https://jp172010.github.io/liri-node-app/images/spotify-this-song command.png
+
 https://jp172010.github.io/liri-node-app/images/do-what-is-says command.png
 
 ### Step 4: Add in a search query(artist, song, movie)
 https://jp172010.github.io/liri-node-app/images/search query movie.png
+
 https://jp172010.github.io/liri-node-app/images/search query artist.png
+
 https://jp172010.github.io/liri-node-app/images/search query song.png
 
 ### Step 5: Enjoy!
 https://jp172010.github.io/liri-node-app/images/movie full search.png
+
 https://jp172010.github.io/liri-node-app/images/concert full search.png
+
 https://jp172010.github.io/liri-node-app/images/song full search.png
+
 https://jp172010.github.io/liri-node-app/images/do something random.png
